@@ -1,5 +1,9 @@
 {
-  "Apocryphal Esther": {
+  "translation": "Literal Standard Version",
+  "abbreviation": "LSV Apocrypha 2022",
+  "source": "The 54 Book Apocrypha",
+  "books": {
+    "Apocryphal Esther": {
       "11": {
         "1": "In the fourth year of the reign of Ptolemy and Cleopatra, Dositheus, who said he was a priest, and of the Levitical race, and Ptolemy his son brought this letter of Purim, which they said Lysimachus the son of Ptolemy had interpreted in Jerusalem.",
         "2": "In the second year of the reign of Artaxerxes the great, in the first day of the month of Nisan, Mordecai the son of Jair, the son of Semei, the son of Cis, of the tribe of Benjamin:",
@@ -24344,6 +24348,7 @@
         "18": "For what reason let all who are without the knowledge of God draw near to that;",
         "19": "and they will receive incorruptible words, which are from all time and forever.",
         "20": "So they will appear before the awful judgment which through Jesus the Messiah is destined to come on the whole human race. · THE END OF THE APOCRYPHA ·"
+      }
     }
   }
 }
